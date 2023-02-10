@@ -1,2 +1,5 @@
 hello - By dev1 at first commit
-Everyone - By dev1 at second commit
+<<<<<<< HEAD
+=======
+world - By dev2 at first commit
+>>>>>>> 0a98c2d79197d6c3724ea62b5c50c75f5bf1a603
